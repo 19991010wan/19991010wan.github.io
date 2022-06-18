@@ -8,6 +8,9 @@ var config = {
     address: "现居北京市海淀区",
     qq: "2996808587",
     log: "Wan Zhijie",
+    github: "@19991010wan",
+    twitter: "",
+    blog: "尽情期待",
 
 
     /*在这里配置首页的座右铭集合*/
@@ -81,9 +84,8 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["./images/pro-1.png", "https://github.com/19991010wan/Buu-Server", "校园论坛", "一个服务与学生的小程序平台<br>持续更新"],
-        ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
-        ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
+        ["./images/pro-1.jpg", "https://github.com/19991010wan/Buu-Server", "校园论坛", "一个服务与学生的小程序平台<br>持续更新"],
+        ["./images/pro-2.jpg", "https://github.com/19991010wan/TriangleinNetwork", "GitHub TriangleinNetwork", "构建github项目参与者网络图，找出三角形个数，讨论与项目质量的关系<br>持续更新"],
     ],
 
 
@@ -112,15 +114,17 @@ var config = {
     award: [
         //如果您内有获奖经历，您可以采取下列写法
         // ["————————", "", "<p>暂无论文发表，后续持续更新。</p>"]
-
-        ["2020", "<br>美国大学生数学建模竞赛F奖",
+        [
+            "<li>美国大学生数学建模竞赛：2019年获得美赛H奖，2020年获得美赛F奖</li>"
+        ],
+        /*["2019和2020", "<br>美国大学生数学建模竞赛F奖",
             "<p><strong>阎王殿研发部</strong></p>" +
             "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>"
         ],
         ["2020", "<br>美国大学生数学建模竞赛F奖",
             "<p><strong>阎王殿研发部</strong></p>" +
             "<p>随着阴历7月15中元节的到来，阎王殿的任务愈发庞大，我以及我所在小组主要负责阎王谱后台部分，拟在解决千万访问并发问题，经过不械努力，使得产品稳定、高效的运行。</p>"
-        ],
+        ],*/
         //
         // ["2020/7/1 — 2021/8/10", "<br>阎王殿实习生",
         //     "<p><strong>阎王殿研发部</strong></p>" +
