@@ -1,5 +1,5 @@
 function addScript(url) {
-    document.write("<script language=javascript src=./config/config.js></script>");
+    document.write("<script language=javascript src=./config/config_Chinese.js></script>");
 }
 addScript();
 //不使用配置文件请注释点上面代码
@@ -135,7 +135,7 @@ $(function () {
                     "        <ul class=\"list-group\">\n" +
                     "            <li class=\"list-group-item\">\n" +
                     "               <ul>\n" +
-                                    desc +
+                    desc +
                     "               </ul>\n" +
                     "              </li>\n" +
                     "        </ul>\n" +
@@ -269,7 +269,7 @@ $(function () {
 
 
     // ---- 座右铭字缓出效果 -----
-    var text = "We must take what we have and exchange it for what we don't have.";
+    var text = "衣带渐宽终不悔，为伊消得人憔悴";
     var length = text.length;
     let index = 0;
     var mottoArrs = config.motto;
