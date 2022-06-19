@@ -582,24 +582,58 @@ html {
     transition-delay: 0.15s;
 }
 
-.experience-section .card {
+.paper-section .card {
     background-color: rgb(255, 255, 255);
     color: black;
 
 }
 
-.experience-section .col-md-3 .card-body {
+.paper-section .col-md-3 .card-body {
     text-align: center;
     color: white;
 }
 
 @media (max-width: 768px) {
-    .experience-section .card {
+    .paper-section .card {
         text-align: center;
     }
 }
 
-.experience-section .work {
+.paper-section .work {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.award-section .card {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.award-section .col-md-3 .card-body-award {
+    text-align: center;
+    color: white;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*-ms-flex:1 1 auto;flex:1 1 auto;*/
+}
+
+.award-section .col-md-9 .card-body-content {
+    -ms-flex:1 1 auto;flex:1 1 auto;padding:0.8rem
+}
+
+@media (max-width: 768px) {
+    .award-section .card {
+        /*text-align: center;*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /*-ms-flex:1 1 auto;flex:1 1 auto;*/
+    }
+}
+
+.award-section .work {
     font-size: 20px;
     color: white;
     text-align: center;
