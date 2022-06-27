@@ -129,18 +129,10 @@ $(function () {
                 let desc = config.award[i];
 
 
-                $(".award-section .container .main .row .col-md-12 .card").append(
-                    "<div class=\"row\">\n" +
-                    "    <div class=\"card-body\">\n" +
-                    "        <ul class=\"list-group\">\n" +
+                $(".award-section .container .main .row .col-md-12 .card .row .card-body .list-group").append(
                     "            <li class=\"list-group-item\">\n" +
-                    "               <ul>\n" +
-                    desc +
-                    "               </ul>\n" +
-                    "              </li>\n" +
-                    "        </ul>\n" +
-                    "    </div>\n" +
-                    "</div>"
+                                    desc +
+                    "            </li>\n"
                 );
             }
         }
