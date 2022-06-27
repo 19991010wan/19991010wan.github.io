@@ -112,12 +112,12 @@ var config = {
     award: [
         //如果您内有获奖经历，您可以采取下列写法
         // ["————————", "", "<p>暂无论文发表，后续持续更新。</p>"]
-        ["<li><strong>National physics competition: </strong>won the national third prize in 2018</li>"],
-        ["<li><strong>American College Mathematical Modeling Competition: </strong>H award in 2019 and F award in 2020 in MCM/ICM</li>"],
-        ["<li><strong>National Student Mathematical Modeling Competition: </strong>Won the second prize in Beijing in 2019</li>"],
-        ["<li><strong>National University Student Mathematical Competition: </strong>National Third Prize in 2019, National First Prize in 2020</li>"],
-        ["<li><strong>Beijing Outstanding Graduate: </strong>Beijing Outstanding Graduates in 2021</li>"],
-        ["<li><strong>Graduate Student Mathematical Modeling Competition: </strong>Third prize in 2021</li>"],
+        ["<strong>National physics competition: </strong>won the national third prize in 2018"],
+        ["<strong>American College Mathematical Modeling Competition: </strong>H award in 2019 and F award in 2020 in MCM/ICM"],
+        ["<strong>National Student Mathematical Modeling Competition: </strong>Won the second prize in Beijing in 2019"],
+        ["<strong>National University Student Mathematical Competition: </strong>National Third Prize in 2019, National First Prize in 2020"],
+        ["<strong>Beijing Outstanding Graduate: </strong>Beijing Outstanding Graduates in 2021"],
+        ["<strong>Graduate Student Mathematical Modeling Competition: </strong>Third prize in 2021"],
     ],
 
 
