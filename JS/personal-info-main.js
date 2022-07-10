@@ -129,7 +129,7 @@ $(function () {
                 let desc = config.award[i];
 
 
-                $(".award-section .container .main .row .col-md-12 .card .row .card-body .list-group").append(
+                $(".award-section .container .card .row .col-md-12 .card-body .list-group").append(
                     "            <li class=\"list-group-item\">\n" +
                                     desc +
                     "            </li>\n"
