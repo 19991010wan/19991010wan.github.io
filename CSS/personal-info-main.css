@@ -218,6 +218,7 @@ html {
 .about-section .card:hover,
 .skill-section .card:hover,
 .award-section .card:hover,
+.contact-section .card:hover,
 .portfolio-section .card:hover {
     transform: scale(1.02, 1.02) !important;
 }
