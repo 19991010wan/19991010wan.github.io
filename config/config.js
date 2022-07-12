@@ -120,6 +120,22 @@ var config = {
         ["<strong>Graduate Student Mathematical Modeling Competition: </strong>Third prize in 2021"],
     ],
 
+    /**
+     * 在这里填写您的社交网络平台
+     * ["img", "url", "desc"]
+     * img是社交平台的图标，在./svg目录下我们已经准备好了 微博、简书、掘金、小红书、知乎、csdn、facebook、github、力扣、CF和qq的图标
+     * url是您链接
+     * desc是一段描述，将鼠标移入将会显示该描述
+     * 建议您放置数量 <= 5
+     */
+    icon: [
+        ["./svg/LeetCode.svg", "https://leetcode.cn/u/wu-xie-ge-tai/", "我的力扣主页"],
+        ["./svg/github.svg", "https://github.com/19991010Wan", "我的GitHub主页"],
+        ["./svg/博客.svg", "", "我的个人博客"],
+        ["./svg/掘金.svg", "https://juejin.cn/user/", "我的掘金主页"],
+        ["./svg/知乎.svg", "https://www.zhihu.com/people/", "我的知乎主页"]
+    ],
+
 
 
     //这是一些图片链接，建议您仅更改第二个头像图片
