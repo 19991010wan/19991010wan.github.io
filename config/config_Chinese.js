@@ -10,7 +10,8 @@ var config = {
     log: "Wan",
     github: "@19991010wan",
     twitter: "",
-    blog: "尽情期待",
+    blog: "wanBlog",
+    music: "./media/篇章.mp3",
 
 
     /*在这里配置首页的座右铭集合*/
