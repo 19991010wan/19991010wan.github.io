@@ -288,6 +288,18 @@ html {
     transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 
+.audio {
+    position: absolute;
+    bottom: 50px;
+    right: 0;
+    z-index: 9999;
+}
+
+.audio .play {
+    width: 20px;
+    height: 20px;
+}
+
 [class^="hvr-"] {
     position: relative;
     bottom: 75px;
