@@ -4,6 +4,18 @@ function addScript(url) {
 addScript();
 //不使用配置文件请注释点上面代码
 
+$(document).ready(function () {
+    $('.audio img').bind('click', function () {
+        alert($(this).attr('src'))
+        console.log("电解铝")
+    })
+    /*$('.personalImage img').bind('click', function () {
+        alert($(this).attr('src'))
+        console.log("电解铝")
+    })*/
+    // myphoto
+})
+
 //星光依旧灿烂，激情仍然燃烧。因为有梦想，所以我存在。你在你的领域里不惜青春，我在我的道路上不知疲倦。
 $(function () {
     if (config) {
@@ -40,6 +52,16 @@ $(function () {
         $(".desc").html(config.skills_description);
         //------E-------
 
+        if (config.music) {
+            /*audio = "media/篇章.mp3";
+            audio = new Audio(audio);
+            var playaudio = document.querySelector("playaudio")
+            playaudio.addEventListener("click", function (e) {
+                audio.play()
+            })
+
+            audio.play()*/
+        }
 
         if (config.skills) {
             for (let i = 0; i < config.skills.length; i++) {
