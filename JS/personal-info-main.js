@@ -197,7 +197,7 @@ $(function () {
                 $(".icon-insert").append(
                     "<a class=\"my-tooltip\" href=\"" + url + "\" title=\"访问我的社交平台\">\n" +
                     "    <img src=\"" + img + "\" alt=\"\">\n" +
-                    "    <span class=\"my-tooltiptext\">" + desc + "</span>\n" +
+                    "    <span class=\"my-tooltiptext my-tooltiptext-English\">" + desc + "</span>\n" +
                     "</a>"
                 );
             }
