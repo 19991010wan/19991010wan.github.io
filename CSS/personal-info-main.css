@@ -288,7 +288,7 @@ html {
     transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 
-.audio {
+/*.audio {
     position: absolute;
     bottom: 50px;
     right: 0;
@@ -298,7 +298,7 @@ html {
 .audio .play {
     width: 20px;
     height: 20px;
-}
+}*/
 
 [class^="hvr-"] {
     position: relative;
@@ -932,6 +932,10 @@ html {
     bottom: 150%;
     left: 50%;
     margin-left: -60px;
+}
+
+.my-tooltip .my-tooltiptext-English {
+    width: 180px;
 }
 
 .my-tooltip .my-tooltiptext::after {
