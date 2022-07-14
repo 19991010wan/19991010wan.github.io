@@ -148,8 +148,8 @@ var config = {
     icon: [
         ["./svg/LeetCode.svg", "https://leetcode.cn/u/wu-xie-ge-tai/", "我的力扣主页"],
         ["./svg/github.svg", "https://github.com/19991010Wan", "我的GitHub主页"],
-        ["./svg/博客.svg", "", "我的个人博客"],
-        ["./svg/掘金.svg", "https://juejin.cn/user/", "我的掘金主页"],
+        ["./svg/博客.svg", "https://19991010wan.github.io/19991010wan-Blog/", "我的个人博客"],
+        ["./svg/csdn.svg", "https://blog.csdn.net/weixin_44883166?type=blog", "我的CSDN主页"],
         ["./svg/知乎.svg", "https://www.zhihu.com/people/", "我的知乎主页"]
     ],
 
