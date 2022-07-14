@@ -132,7 +132,7 @@ var config = {
         ["./svg/LeetCode.svg", "https://leetcode.cn/u/wu-xie-ge-tai/", "My LeetCode Home Page"],
         ["./svg/github.svg", "https://github.com/19991010Wan", "My GitHub Home Page"],
         ["./svg/博客.svg", "https://19991010wan.github.io/19991010wan-Blog/", "My Personal Blog"],
-        ["./svg/掘金.svg", "https://blog.csdn.net/weixin_44883166?type=blog", "My CSDN Home Page"],
+        ["./svg/csdn.svg", "https://blog.csdn.net/weixin_44883166?type=blog", "My CSDN Home Page"],
         ["./svg/知乎.svg", "https://www.zhihu.com/people/", "My ZhiHu Home Page"]
     ],
 
