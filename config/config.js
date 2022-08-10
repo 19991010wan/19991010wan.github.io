@@ -9,8 +9,8 @@ var config = {
     qq: "2996808587",
     log: "Wan",
     github: "@19991010wan",
-    twitter: "",
-    blog: "Please look forward to",
+    twitter: "@zjWan4",
+    blog: "wanBlog",
 
 
     /*Configure the collection of mottos on the home page here*/

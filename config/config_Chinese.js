@@ -9,7 +9,7 @@ var config = {
     qq: "2996808587",
     log: "Wan",
     github: "@19991010wan",
-    twitter: "",
+    twitter: "@zjWan4",
     blog: "wanBlog",
     music: "./media/篇章.mp3",
 
